@@ -1,8 +1,7 @@
 streamlit
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
-datetimedatetime
-scipystats
+scipy
 statsmodels
