@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+datetimedatetime
+scipystats
+statsmodels
